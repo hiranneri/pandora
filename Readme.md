@@ -1,24 +1,22 @@
 # Sistema Comercial - Pandora
-Sistema desktop desenvolvido para estudo e futuro uso comercial, que tem a principal funÁ„o de executar vendas de produtos de comÈrcio em geral. Desenvolvido na linguagem JAVA com o banco de dados MySQL 8.0.
+Sistema desktop desenvolvido para estudo e futuro uso comercial, que tem a principal fun√ß√£o de executar vendas de produtos de com√©rcio em geral. Desenvolvido na linguagem JAVA com o banco de dados MySQL 8.0.
 
 # O que faz?
  - Cadastro de Produtos
  - Pesquisa de Produtos
- - AlteraÁ„o de Produtos
+ - Altera√ß√£o de Produtos
  - Desativar Produtos
- - Cadastro de Usu·rios
- - Pesquisa de Usu·rios
- - AlteraÁ„o de Usu·rios
- - Desativar Usu·rios
+ - Cadastro de Usu√°rios
+ - Pesquisa de Usu√°rios
+ - Altera√ß√£o de Usu√°rios
+ - Desativar Usu√°rios
  - Venda
  - Pesquisa de Vendas
- Est„o previstas novas funcionalidades para as futuras versıes do sistema.
+ Est√£o previstas novas funcionalidades para as futuras vers√µes do sistema.
  
 
-# Requisitos obrigatÛrios
+# Requisitos obrigat√≥rios
  - Java 1.8 ou superior
- - Uma IDE de sua preferÍncia
+ - Uma IDE de sua prefer√™ncia
  - MySQL 5.7 ou superior
- - ApÛs instalar o banco È necess·rio que o script do [banco](https://github.com/hiranneri/cartorio/tree/master/docs) seja executado, ou ent„o, digite o comando:
-
-  <code>CREATE DATABASE db_cartorio;</code>
+ - Ap√≥s instalar o banco √© necess√°rio que o script do [banco](https://github.com/hiranneri/cartorio/tree/master/docs) seja executado, ou ent√£o, digite o comando:
